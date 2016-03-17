@@ -1,6 +1,8 @@
 {
- "Files": [],
- "Name": "github.com/sourcegraph/simple",
+ "Files": [
+   "simple.go"
+ ],
+ "Name": "myunit",
  "Ops": {},
  "Dependencies": [],
  "Type": "MyUnitType",
