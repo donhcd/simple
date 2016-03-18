@@ -1,0 +1,10 @@
+{
+ "Files": [
+   "simple.go"
+ ],
+ "Name": "myunit",
+ "Ops": {},
+ "Dependencies": [],
+ "Type": "MyUnitType",
+ "Dir": "."
+}
