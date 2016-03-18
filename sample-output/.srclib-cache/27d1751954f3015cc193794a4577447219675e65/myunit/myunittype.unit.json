@@ -5,6 +5,6 @@
  "Name": "myunit",
  "Ops": {},
  "Dependencies": [],
- "Type": "MyUnitType",
+ "Type": "myunittype",
  "Dir": "."
 }
