@@ -11,5 +11,8 @@ func main() {
 // myfunc is a function that does nothing.
 func myfunc(y int) {
 	x := y
-	fmt.Println(x)
+	for i := 0; i < 10; i++ {
+		z := i
+		fmt.Println(x, i, z)
+	}
 }
