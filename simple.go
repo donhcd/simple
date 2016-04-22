@@ -4,11 +4,12 @@ import "fmt"
 
 // main runs the program.
 func main() {
-	myfunc()
+	myfunc(2)
 	fmt.Println("Hello world")
 }
 
 // myfunc is a function that does nothing.
-func myfunc() {
-
+func myfunc(y int) {
+	x := y
+	fmt.Println(x)
 }
